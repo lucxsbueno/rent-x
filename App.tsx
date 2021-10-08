@@ -25,7 +25,7 @@ import { ThemeProvider } from 'styled-components';
  *
  * Screens
  */
-import { Home } from './src/screens/Home';
+import { CarDetails } from './src/screens/CarDetails';
 
 export default function App() {
 
@@ -41,7 +41,7 @@ export default function App() {
 
    return (
       <ThemeProvider theme={theme}>
-         <Home/>
+         <CarDetails/>
       </ThemeProvider>
    );
 }

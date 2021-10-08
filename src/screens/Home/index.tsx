@@ -10,7 +10,8 @@ import {
    Container,
    Header,
    HeaderContent,
-   TotalCars
+   TotalCars,
+   CarList
 } from './styles';
 import Car from '../Car';
 
@@ -32,11 +33,11 @@ export function Home() {
             </HeaderContent>
          </Header>
 
-         <Car data={carData} />
-
-         <Car data={carData} />
-
-         <Car data={carData} />
+         <CarList
+            data={[1, 2, 3, 4, 5, 6, 7]}
+            renderItem={({item}) => <Car data={carData} />}
+            keyExtractor={item => String(item)}
+         />
 
          <StatusBar
             backgroundColor="transparent"
