@@ -38,3 +38,4 @@ A Rent-x é um aplicativo feito em React Native com o propósito de tornar a loc
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/js.svg)
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/vs-code.svg)
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/node-js.svg)
+
