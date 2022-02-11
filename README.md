@@ -17,21 +17,21 @@ A Rent-x é um aplicativo feito em React Native com o propósito de tornar a loc
 
 ### Telas do app
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/splash.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/splash.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/home.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/home.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/escolher-data.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/escolher-data.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/detalhes.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/detalhes.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/detalhes-1.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/detalhes-1.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/data-escolhida.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/data-escolhida.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/agendamentos.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/agendamentos.svg)
 
-![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/agendamento-concluido.jpg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/figma/agendamento-concluido.svg)
 
 ### Tecnologias utilizadas
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/react.svg)
