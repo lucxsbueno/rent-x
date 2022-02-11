@@ -11,6 +11,9 @@ A Rent-x é um aplicativo feito em React Native com o propósito de tornar a loc
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/ios.svg)
 
 ### Instalação e inicialização
+> **Aviso** <br>
+> Para rodar o projeto em ambiente de desenvolvimento, você precisa atendar a todos os requisitos [desta documentação](https://react-native.rocketseat.dev/), caso contrário, ocorrerá o risco de o app não funcionar!
+
 - [x] ```yarn```
 - [x] ```expo install```
 - [x] ```expo start```
