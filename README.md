@@ -5,11 +5,13 @@
 
 A Rent-x é um aplicativo feito em React Native com o propósito de tornar a locação de carros mais fácil e rápida, um aplicativo desenvolvido durante o curso de React Native na Rocketseat, em 2021. A criação deste app tem como objetivo aprender mais sobre o consumo de API's dentro do ecossistema React.
 
-  
+### Instalação e inicialização
 
-### Resources
+ - [ ] ```yarn```
+ - [ ] ```expo install```
+ - [ ] ```expo start```
 
-  
+### Resources  
 
 1. [Figma](https://www.figma.com/file/4ojyGi2mGuQaGK0sUHMAqB/RentX-Ignite?node-id=0:1)
 
@@ -38,4 +40,5 @@ A Rent-x é um aplicativo feito em React Native com o propósito de tornar a loc
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/js.svg)
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/vs-code.svg)
 ![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/node-js.svg)
-
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/android.svg)
+![enter image description here](https://github.com/lucxsbueno/rent-x/raw/main/brands/ios.svg)
